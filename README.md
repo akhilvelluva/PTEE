@@ -1,5 +1,5 @@
 ###   PTEE
-An interactive web application for finding the best sample for RNA sequence analysis 
+An interactive web application for finding the best accessible tissues for RNA sequence analysis 
 
 ## Features
 
